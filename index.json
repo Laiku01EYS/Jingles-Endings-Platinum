@@ -1,7 +1,7 @@
 {
   "name": "Jingles-Endings-Platinum",
   "n64": [
-    { "name": "Super Mario 64", "file": "ROMs/n64/Super-Mario-64.mp3" }
+    { "name": "Super Mario 64", "file": "ROMs/n64/Super Mario 64.mp3" }
   ],
   "snes": [
     { "name": "Super Metroid", "file": "jingles/snes/metroid.ogg" }
